@@ -89,7 +89,7 @@ const schedule = [
       },
       {
         name: 'Информатика',
-        time: '09:00-10:30',
+        time: '10:40-12:10',
         lector: 'Бурылов В.С',
         classroom: 'Ауд. 218',
         week: 'both',
@@ -115,7 +115,7 @@ const schedule = [
       },
       {
         name: 'Литература',
-        time: '12:30-14:00',
+        time: '14:10-15:40',
         lector: 'Гунченко А.В',
         classroom: 'Ауд. 302',
         week: 'odd',
