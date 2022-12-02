@@ -26,7 +26,7 @@ const schedule = [
       {
         name: 'Русский язык',
         time: '14:10-15:40',
-        lector: 'Гунченко А.В',
+        lector: 'DANGER ДУШНИЛА Гунченко А.В',
         classroom: 'Ауд. 313',
         week: 'both',
       },
@@ -116,7 +116,7 @@ const schedule = [
       {
         name: 'Литература',
         time: '14:10-15:40',
-        lector: 'Гунченко А.В',
+        lector: 'DANGER ДУШНИЛА Гунченко А.В',
         classroom: 'Ауд. 302',
         week: 'odd',
       },
@@ -135,14 +135,14 @@ const schedule = [
       {
         name: 'Литература народов России',
         time: '10:40-12:10',
-        lector: 'Гунченко А.В',
+        lector: 'DANGER ДУШНИЛА Гунченко А.В',
         classroom: 'Ауд. 217',
         week: 'both',
       },
       {
         name: 'Литература народов России',
         time: '12:30-14:00',
-        lector: 'Гунченко А.В',
+        lector: 'DANGER ДУШНИЛА Гунченко А.В',
         classroom: 'Ауд. 217',
         week: 'both',
       },
