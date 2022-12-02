@@ -35,7 +35,6 @@ window.addEventListener('DOMContentLoaded', () => {
                       <div>ПАРА: ${lecture.name}</div>
                       <div>ЛЕКТОР: ${lecture.lector}</div>
                       <div>АУДИТОРИЯ: ${lecture.classroom}</div>
-                      <div>НЕДЕЛЯ: ${lecture.week}</div>
                     `
             //Добавляем li в общий список scheduleList
             scheduleList.append(liElement)
@@ -48,7 +47,6 @@ window.addEventListener('DOMContentLoaded', () => {
                       <div>ПАРА: ${lecture.name}</div>
                       <div>ЛЕКТОР: ${lecture.lector}</div>
                       <div>АУДИТОРИЯ: ${lecture.classroom}</div>
-                      <div>НЕДЕЛЯ: ${lecture.week}</div>
                     `
             //Добавляем li в общий список scheduleList
             scheduleList.append(liElement)
