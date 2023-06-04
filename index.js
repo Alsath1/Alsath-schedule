@@ -21,7 +21,7 @@ window.addEventListener('DOMContentLoaded', () => {
   ]
 
   schedule.forEach(({dayName, lectures}) => {
-    if (dayName === dayOfWeek[currentDay - 4]) {
+    if (dayName === dayOfWeek[currentDay - 1]) {
       //Вставляем в HTML день недели
       dayOfWeekElement.textContent = dayName
 
