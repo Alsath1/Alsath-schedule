@@ -3,7 +3,7 @@ const schedule = [
     dayName: 'Понедельник',
     lectures: [
       {
-        name: 'Физичемская культура',
+        name: 'Физическая культура',
         time: '09:00-10:30',
         lector: 'Аринова К.И.',
         classroom: 'Спорт.Зал',
@@ -74,7 +74,7 @@ const schedule = [
     dayName: 'Четверг',
     lectures: [
       {
-        name: 'Физичемская культура',
+        name: 'Физическая культура',
         time: '09:00-10:30',
         lector: 'Аринова К.И.',
         classroom: 'Спорт.Зал',
